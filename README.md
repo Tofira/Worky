@@ -1,6 +1,15 @@
 ## Worky
 Worky is an app for monitoring work activity
 
+You can download the APK [here](https://github.com/Tofira/Worky/blob/master/worky.apk?raw=true)
+
+
+![Alt Text](https://raw.githubusercontent.com/Tofira/Worky/master/worky_gif.gif)
+
+
+
+![Alt Text](https://raw.githubusercontent.com/Tofira/Worky/master/main_screen.png)
+
 Worky has two main screens - 
 1. Entrance page - The user can enter his work address.
 2. Main page - Displays the list of the user's work hours.
@@ -9,6 +18,7 @@ Worky has two main screens -
 
 The general Architecture of Worky is presented in the below diagram - 
 
+![Alt Text](https://raw.githubusercontent.com/Tofira/Worky/master/Worky%20Diagram.png)
 
 It uses the (rather) new Android Architecture Components (Room, LiveData & ViewModel).
 

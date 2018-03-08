@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Worky</string>
+    <string name="app_name_underline"><u>Worky</u></string>
+    <string name="notification_ticker_text">Starting to monitor activity</string>
+    <string name="notification_title_text">Monitoring Activity</string>
+    <string name="notification_content_text">Working is currently running</string>
+    <string name="monitoring_error">An error has occurred when trying to set up monitoring</string>
+    <string name="permission_denied">Location access permissions is required</string>
+    <string name="invalid_date">Invalid</string>
+    <string name="exception">Exception</string>
+    <string name="ongoing_session">Ongoing</string>
+    <string name="work_address">Enter your work address</string>
+    <string name="entrance_title">Entrance - </string>
+    <string name="logo_1">You work.</string>
+    <string name="logo_2">We monitor</string>
+    <string name="toggle_monitoring">Toggle monitoring</string>
+    <string name="monitoring_off">Off</string>
+    <string name="monitoring_on">On</string>
+    <string name="started_monitoring">Starting to monitor movement</string>
+    <string name="stopped_monitoring">Stopped monitoring movement</string>
+</resources>
